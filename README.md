@@ -1,16 +1,29 @@
-### Hi there 👋
+# mhzcyber
 
-<!--
-**mhzcyber/mhzcyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Who Am I ? 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Mohammad Hussam Alzeyyat aka mhz-cyber - 17 Y/O
+- Cyber Security Addict | BBH | Penetration Tester/Red teamer |  Network Security Researcher | CTF Creator/Player 
+
+
+Where i'm working right now ?
+
+- Network Technical at Hatnet ISP
+- Penetration Tester at CyberWizards Team
+- Network Security Researcher - when I'm Free, Just more 0Days :D -
+
+My Projects :
+  - mhz_cxf: c1f (CTF Machine - https://www.vulnhub.com/entry/mhz_cxf-c1f,471/)
+  - CyberWizards 1 (CTF Machine)
+  
+  There are some private tools who is comming, just shine up my friend
+  
+My education background :
+
+- Studying IT at ABCHorizon
+- a lot of courses from eLearnSecuritym Offensive Security, Pentesteracademy and so on.
+
+CVEs :
+
+CVE-2020-6878
