@@ -3,26 +3,19 @@
 
 Who Am I ? 
 
-- Mohammad Hussam Alzeyyat aka mhz-cyber - 18 Y/O
-- Cyber Security Addict | BBH | Penetration Tester/Red teamer |  Network Security Researcher | CTF Creator/Player 
+- Mohammad Hussam Alzeyyat aka mhzcyber - 19 Y/O
+- Penetration Tester | Synack Red Teamer | Cyber security analyst | Cyber security Trainer | CTF Developer/Player | Future 0day engineer
 
-
-Where i'm working right now ?
-
-- Network Technical at Hatnet ISP
-- Penetration Tester at CyberWizards Team
-- Network Security Researcher - when I'm Free, Just more 0Days :D -
 
 My Projects :
   - mhz_cxf: c1f (CTF Machine - https://www.vulnhub.com/entry/mhz_cxf-c1f,471/)
-  - CyberWizards 1 (CTF Machine)
+  - Looz (CTF Machine - https://www.vulnhub.com/entry/looz-1,732/#release)
+  - CyberWizards (CTF Machine)
   
-  There are some private tools who is comming, just shine up my friend
   
 My education background :
 
-- Studying IT at ABCHorizon
-- a lot of courses from eLearnSecuritym Offensive Security, Pentesteracademy and so on.
+- Alot of self-learning!
 
 CVEs :
 
