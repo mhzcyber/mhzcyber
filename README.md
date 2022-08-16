@@ -3,8 +3,8 @@
 
 Who Am I ? 
 
-- Mohammad Hussam Alzeyyat aka mhzcyber - 19 Y/O
-- Penetration Tester | Synack Red Teamer | Cyber security analyst | Cyber security Trainer | CTF Developer/Player | Future 0day engineer
+- Mohammad Hussam Alzeyyat aka mhzcyber
+-  Penetration Tester | Cyber Security Labs Developer | Upwork Top Rated CyberSecurity 
 
 
 My Projects :
