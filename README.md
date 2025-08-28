@@ -4,7 +4,7 @@
 Who Am I ? 
 
 - Mohammad Hussam Alzeyyat aka mhzcyber
-- Vulnerability Researcher | Exploit Developer | Founder @ vulnerable.codes
+- Vulnerability Researcher | Exploit Developer
   
   
 My education background :
